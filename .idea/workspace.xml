@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd7c06fe-3e5c-4a39-b4c3-6c56d57d9d1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/AddTwoMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/AddTwoMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ConsecutiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ExceptionChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ExceptionChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/FirstAndLastDayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/FirstAndLastDayOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/RemoveVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/RemoveVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StudentGradeCaluculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StudentGradeCaluculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/UserDefindException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/UserDefindException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/FirstAndLastDayOfWeekTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/FirstAndLastDayOfWeekTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/RemoveVowelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe3/RemoveVowelsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="dd7c06fe-3e5c-4a39-b4c3-6c56d57d9d1b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +85,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -227,6 +216,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-assignment1" />
@@ -390,7 +380,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25958306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -401,7 +390,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32841823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32841823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
